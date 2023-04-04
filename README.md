@@ -1,6 +1,6 @@
-# Project Name
+# FCC ROTHKO PAINTING
 
-> One paragraph statement about the project.
+> A rothko painting is a form of rectangular art build by HTML element, CSS properties and Box Model.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,11 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 form element
+  `html`. `div.frame`, `div.canvas`, `div.one`, `div.two`, `div.three`.
+- CSS properties.
+  `wildth`, `padding`, `marging`, `Box-shadow`, `border-radius`, `transform`,
+  `filter`, `Over-flow` etc.
 
 ## Live Demo
 
@@ -21,7 +23,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:olayinka-oladele/06-fcc-rothko-painting.git
 
 ```
 
@@ -65,14 +67,13 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@olayinka-oladele](https://github.com/olayinka-oladele)
+- Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
+- Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
 
@@ -86,9 +87,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- FreeCodeCamp: [@fcc-rothko-painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-45)
 
 ## 📝 License
 
